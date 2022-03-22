@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biscr_students/static/css/main.1d8cad2f.css",
+    "main.js": "/biscr_students/static/js/main.16b79871.js",
+    "static/js/787.56b61134.chunk.js": "/biscr_students/static/js/787.56b61134.chunk.js",
+    "index.html": "/biscr_students/index.html",
+    "main.1d8cad2f.css.map": "/biscr_students/static/css/main.1d8cad2f.css.map",
+    "main.16b79871.js.map": "/biscr_students/static/js/main.16b79871.js.map",
+    "787.56b61134.chunk.js.map": "/biscr_students/static/js/787.56b61134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8cad2f.css",
+    "static/js/main.16b79871.js"
+  ]
+}
